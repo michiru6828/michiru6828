@@ -1,4 +1,4 @@
-### Hi there 👋
+### woof woof :dog:
 
 <!--
 **michiru6828/michiru6828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
